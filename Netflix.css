@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+.division{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 35px;
+}
+button{
+    border: 1px solid rgb(43, 41, 41);
+    width: 1150px;
+    height: 60px;
+    color: white;
+    padding-top: 20px;
+    
+
+}
+
+.sub{
+    background-color: rgb(56, 56, 56);
+    margin: 12px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px auto;
+
+}
+
+img{
+    color: white;
+    width: 15px;
+    height: 15px;
+}
+#myDropdown{
+    width: 1150px;
+    height: 60px;
+    padding-top: 0px;
+    margin: 0 auto;
+    background-color: rgb(32, 32, 32);
+    margin-top: none;
+
+}
+#myDropdown1{
+    margin: 12px auto;
+
+}
